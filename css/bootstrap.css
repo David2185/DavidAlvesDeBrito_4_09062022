@@ -15,7 +15,9 @@ html {
 body {
     margin: 0
 }
-
+.img-responsive {
+    width: 100%;
+}
 article,
 aside,
 details,
@@ -1427,7 +1429,7 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 .carousel-inner>.item>a>img,
@@ -6047,7 +6049,7 @@ a.badge:hover {
 .thumbnail a>img,
 .thumbnail>img {
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
 }
 
 a.thumbnail.active,
