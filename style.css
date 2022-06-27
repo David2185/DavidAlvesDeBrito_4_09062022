@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.lien-vers-acceuil{
+    text-decoration: none;
+}
 .pictures-in-text_1 {
     font-size:3.2rem;
     
@@ -20,6 +23,31 @@ body {
 
 .pictures-in-text_3 {
     font-size:4.5rem;
+}
+
+.form-contact{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.form-text1 {
+    font-size: 4rem;
+    color: #161616 !important;
+}
+
+.form-text2 {
+    font-size: 1.8rem;
+    color: #161616 !important;
+}
+
+.form-css {
+    display: flex;
+    flex-direction: column;
+    line-height:2.5rem;
+}
+
+.boutton-css{
+    width: 35%;
 }
 a,
 button {
@@ -673,9 +701,6 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
-    font-size: 38px;
-}
 
 .hero-bloc-text-sub {
     font-size: 36px;
