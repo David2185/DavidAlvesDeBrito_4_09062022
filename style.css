@@ -7,6 +7,20 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.pictures-in-text_1 {
+    font-size:3.2rem;
+    
+}
+
+.pictures-in-text_2 {
+    font-size:2.2rem;
+    color: #5A5A5A;
+    line-height:2.3rem;
+}
+
+.pictures-in-text_3 {
+    font-size:4.5rem;
+}
 a,
 button {
     transition: all .3s ease-in-out;
