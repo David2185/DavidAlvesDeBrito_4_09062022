@@ -1084,3 +1084,6 @@ h4 {
     }
 }
 
+*:focus{
+    border: 1px solid blue;
+}
